@@ -1,0 +1,1 @@
+# QMIND_NeuralNetwork_kickOffProject
